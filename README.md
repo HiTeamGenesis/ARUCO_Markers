@@ -2,4 +2,4 @@
 
 ## Generator: https://chev.me/arucogen/
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXYrc-y1Wg0YI6RMtWtT6jl0Fx_31TJlf9g&usqp=CAU)
+![alt text](https://raw.githubusercontent.com/LongerVision/OpenCV_Examples/master/markers/marker_66.jpg)
